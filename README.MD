@@ -1,4 +1,4 @@
-# Eternal Color Terminal Simulator
+# Eternal Color Terminal Simulator :tophat:
 
 Hacker terminal simulation with colored texts
 
@@ -10,4 +10,8 @@ Hacker terminal simulation with colored texts
 
 ### Result
 
+![project-result](https://github.com/Alejandrehl/eternal-color-terminal-simulator/blob/main/images/result.gif)
+
 ### ShowCase
+
+![project-showcase](https://github.com/Alejandrehl/eternal-color-terminal-simulator/blob/main/images/showcase.gif)
