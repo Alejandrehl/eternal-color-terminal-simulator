@@ -2,16 +2,13 @@
 
 Hacker terminal simulation with colored texts
 
-### How to use?
+## How to use?
 
-1. Clone repo: ``
+1. Clone repo: `git clone git@github.com:Alejandrehl/eternal-color-terminal-simulator.git`
 2. Change text in foor loop
 3. Exec project: `python index.py`
 
-### Result
+## ShowCase
 
 ![project-result](https://github.com/Alejandrehl/eternal-color-terminal-simulator/blob/main/images/result.gif)
-
-### ShowCase
-
 ![project-showcase](https://github.com/Alejandrehl/eternal-color-terminal-simulator/blob/main/images/showcase.gif)
